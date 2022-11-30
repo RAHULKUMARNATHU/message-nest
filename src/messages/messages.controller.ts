@@ -1,5 +1,5 @@
 import { Body, Controller, Get, Param, Post } from '@nestjs/common';
-import { CreateMessageDto } from 'src/dtos/create-message.dto';
+import { CreateMessageDto } from './dtos/create-message.dto';
 
 
 @Controller('messages')
