@@ -8,10 +8,10 @@ POST http://localhost:3000/messages
 Content-Type: application/json
 
 {
-    "content" : "Simple Routes for Nest"
+    "content" : "Simple Routes for Nest 3rd"
 }
 
 
 ### get a particular Message
 
-GET http://localhost:3000/messages/7669
+GET http://localhost:3000/messages/764
