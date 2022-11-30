@@ -1,5 +1,5 @@
 import { NestFactory } from '@nestjs/core';
-import { MessegesModule } from './messeges/messeges.module';
+import { MessegesModule } from './messages/messeges.module';
 
 
 async function bootstrap() {
