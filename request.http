@@ -1,0 +1,17 @@
+### List Messages
+
+GET  http://localhost:3000/messages
+
+
+###Create  Message
+POST http://localhost:3000/messages
+Content-Type: application/json
+
+{
+    "content" : "Simple Routes for Nest"
+}
+
+
+### get a particular Message
+
+GET http://localhost:3000/messages/7669
